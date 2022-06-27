@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+me+chamo+Rafael+Zimbr%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+me+chamo+Rafael+Zimbr%C3%A3o!)](https://git.io/typing-svg)
 </br>
   <div align="center">
     <a href="https://github.com/razimbrao">
