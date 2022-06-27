@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+me+chamo+Rafael!)](https://git.io/typing-svg)
 
 </br>
   <div align="center">
