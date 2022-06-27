@@ -1,13 +1,14 @@
 ### Hi there 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="600" height="300"/>
-</div>
+
+</br>
 <div align="center">
   <a href="https://github.com/razimbrao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razimbrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=black"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razimbrao&layout=compact&langs_count=7&theme=midnight-purple&title_color=black"/>
-    
 </div>
+  
+  
+  
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafael-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
