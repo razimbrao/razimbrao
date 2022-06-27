@@ -13,6 +13,8 @@
    <a href="https://github.com/razimbrao/github-readme-stats">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razimbrao&theme=midnight-purple" alt="Rafael"/>
    </a>
+    <br>
+    <br>
     <a href="https://github.com/razimbrao" alt="Git Graph">
       <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=razimbrao&theme=midnight-purple" />
     </a>
