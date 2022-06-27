@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="600" height="300"/>
+</div>
 <div align="center">
   <a href="https://github.com/razimbrao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razimbrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=black"/>
