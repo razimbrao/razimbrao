@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Olá+!)](https://git.io/typing-svg)
 </br>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razimbrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=black"/>
