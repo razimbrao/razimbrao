@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Olá+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4750&color=9645F4&lines=Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 </br>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razimbrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=black"/>
