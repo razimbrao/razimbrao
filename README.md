@@ -1,14 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+me+chamo+Rafael+Zimbr%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=9645F4&center=true&vCenter=true&lines=Ol%C3%A1%2C+!)](https://git.io/typing-svg)
 </br>
   <div align="center">
-    <a href="https://github.com/razimbrao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razimbrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=black"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razimbrao&layout=compact&langs_count=7&theme=midnight-purple&title_color=black"/>
-    </a>
-    <a href="https://github.com/razimbrao/github-readme-stats">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razimbrao&theme=midnight-purple" alt="Rafael"/>
-    </a>
   </div>
 
 <br>
